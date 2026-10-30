@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/nakazora-no-nikki",
  "yomi": "なかぞらのにっき",
  "category": "日記",
- "description": null,
+ "description": {
+  "kind": "紀行（日記）",
+  "era": "文政2年（1819）2月序",
+  "author": "香川景樹（1768〜1843）",
+  "desc": "江戸に滞在していた香川景樹が伊勢へ上ることになり、尾張などを経て旅した道中の日記。歌と文をまじえる。門人が板に彫ったと文屋康載の序にいう。"
+ },
  "editions": [
   {
    "pid": "993382",
